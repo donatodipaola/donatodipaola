@@ -1,16 +1,17 @@
-## Hi there 👋
+# 👋 Hi, I’m Donato Di Paola
 
-<!--
-**donatodipaola/donatodipaola** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Tech Leader | Robotics, Cloud & AI Solutions | Agile Delivery Leadership
 
-Here are some ideas to get you started:
+I specialize in building intelligent robotic systems that bridge **AI, perception & control, and real-world deployment**.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🔧 Skills & Tools
+- **Robotics:** ROS 2, Behavior Trees, Isaac Sim, Motion Planning, SLAM, Perception Pipelines  
+- **Languages:** Python, C++, Bash  
+- **Systems:** Docker, Kubernetes, Edge/Cloud Architectures, CI/CD  
+- **AI & Vision:** OpenCV, PCL, Deep Learning for Perception  
+
+---
+
+⭐️ *I’m passionate about shaping the next generation of intelligent, flexible robotic systems that augment human work and make automation more accessible across industries.*
