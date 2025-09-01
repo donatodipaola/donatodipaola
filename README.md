@@ -1,13 +1,10 @@
-# 👋 Hi, I’m Donato Di Paola
+### 👋 Hi, I’m Donato
 
-### Tech Leader | Robotics, Cloud & AI Solutions | Agile Delivery Leadership
+I build intelligent robotic systems that bridge **AI, perception & control, and real-world deployment**.  
 
-I specialize in building intelligent robotic systems that bridge **AI, perception & control, and real-world deployment**.  
+I enjoy working on:
+- Writing clean, reliable code in **C/C++, Python, and Bash** — and always learning new languages  
+- Robotics platforms: **ROS 2, Behavior Trees, Gazebo/Isaac Sim, Localization/Mapping/SLAM, Perception Pipelines**  
+- Flexible, scalable systems using **Docker, Kubernetes, Edge/Cloud Architectures, and CI/CD**  
 
-## 🔧 Skills & Tools
-- **Robotics:** ROS 2, Behavior Trees, Isaac Sim, Motion Planning, SLAM, Perception Pipelines  
-- **Languages:** Python, C++, Bash  
-- **Systems:** Docker, Kubernetes, Edge/Cloud Architectures, CI/CD  
-- **AI & Vision:** OpenCV, PCL, Deep Learning for Perception  
-
-⭐️ *I’m passionate about shaping the next generation of intelligent, flexible robotic systems that augment human work and make automation more accessible across industries.*
+⭐️ *Passionate about shaping the next generation of intelligent, flexible robotic systems that augment human work and make automation more accessible across industries.*
