@@ -1,6 +1,6 @@
 ### 👋 Hi, I’m Donato
 
-I build intelligent robotic systems that bridge **AI, perception & control, and real-world deployment**.  
+I build intelligent robotic systems that connect perception and control with AI, turning advanced research into real-world deployment.
 
 I enjoy working on:
 - Writing clean and high quality code in C/C++, Python, and Bash ... and always learning new languages  
